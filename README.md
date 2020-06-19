@@ -14,3 +14,4 @@ the actor. The value loss is the loss related to the predictions of the critic. 
 the training, these two losses will be backpropagated into the neural network, then reduced with an
 optimizer through stochastic gradient descent.
 
+Repository contains the test folder which has video samples of how AI try to make Breakout(game) work by reinforcement learning.
