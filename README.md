@@ -1,4 +1,4 @@
-# Breakout-A3C
+                                                  # Breakout-A3C
 A3C(Asynchronous Advantage Actor-critic)
 
 • Asynchronous: There are several agents, each one having their own copy of the environment, and all
@@ -14,4 +14,4 @@ the actor. The value loss is the loss related to the predictions of the critic. 
 the training, these two losses will be backpropagated into the neural network, then reduced with an
 optimizer through stochastic gradient descent.
 
-Repository contains the test folder which has video samples of how AI try to make Breakout(game) work by reinforcement learning.
+#Repository contains the test folder which has video samples of how AI try to make Breakout(game) work by reinforcement learning.
