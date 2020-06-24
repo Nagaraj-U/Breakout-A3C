@@ -6,7 +6,7 @@ asynchronised (playing the game at different times).
 
 • Advantage: The advantage is the difference between the prediction of the actor, Q(s, a), and the
 prediction of the critic, V (s):
-A = Q(s, a) − V (s)
+A = Q(s, a) − V (s) 
 
 • Actor-Critic: Of course we can see the actor and the critic, that therefore generate two different
 losses: the policy loss and the value loss. The policy loss is the loss related to the predictions of
@@ -14,4 +14,4 @@ the actor. The value loss is the loss related to the predictions of the critic. 
 the training, these two losses will be backpropagated into the neural network, then reduced with an
 optimizer through stochastic gradient descent.
 
-#Repository contains the test folder which has video samples of how AI try to make Breakout(game) work by reinforcement learning.
+ #Repository contains the test folder which has video samples of how AI try to make Breakout(game) work by reinforcement learning.
