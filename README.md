@@ -1,4 +1,4 @@
-                                                  # Breakout-A3C
+                                                  ## Breakout-A3C
 A3C(Asynchronous Advantage Actor-critic)
 
 • Asynchronous: There are several agents, each one having their own copy of the environment, and all
