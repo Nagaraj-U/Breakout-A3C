@@ -1,5 +1,5 @@
                                                    Breakout-A3C
-A3C(Asynchronous Advantage Actor-critic)
+A3C : Asynchronous Advantage Actor-critic
 
 • Asynchronous: There are several agents, each one having their own copy of the environment, and all
 asynchronised (playing the game at different times).
